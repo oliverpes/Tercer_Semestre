@@ -1,0 +1,7 @@
+#include<iftream>
+
+int main(){
+	
+	
+	
+}
